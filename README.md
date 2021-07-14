@@ -1,0 +1,1 @@
+This is a collection of scripts for Numerai that I've created, either to show off in other formats (blogs, etc.), personal consumption, or to help anyone who ends up here.
